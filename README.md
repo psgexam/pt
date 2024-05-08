@@ -2,7 +2,7 @@
 
 Here we go the steps to install the Packet Tracer for ubuntu
 
-git clone 
+`git clone https://github.com/psgexam/pt.git`
 
 ## Usage
 
